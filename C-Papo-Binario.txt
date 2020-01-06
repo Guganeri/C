@@ -1,4 +1,4 @@
-Aula 0
+Aula 00
 
 CONFIGURAÇÃO DO VIM PULGINS - ~/.vimrc
 
@@ -17,3 +17,9 @@ set hlsearch
 set incsearch
 set ignorecase
 set smartcase
+
+==========================================================================
+Aula 01
+
+bc = calculadora do shell - 
+Use -> ibase + base que deseja converter exemplo. ibase=16
