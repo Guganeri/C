@@ -20,8 +20,14 @@ set smartcase
 
 colo murphy
 
+LINUX MACETES
+VIEW = MODO DO VIM APENAS PARA LEITURA
+
 ==========================================================================
 Aula 01
 
 bc = calculadora do shell - 
 Use -> ibase + base que deseja converter exemplo. ibase=16
+
+=========================================================================
+
